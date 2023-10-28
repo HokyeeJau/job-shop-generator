@@ -45,3 +45,10 @@ for dataset_idx in range(dataset_num):
 ## Requirements
 - `scikit-learn`
 - `numpy`
+
+
+## Usage
+```bash 
+python main.py --timeline_length 10 --empty_space_maxima 1 
+```
+
